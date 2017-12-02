@@ -1,0 +1,20 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sp-fx-utitlites-wp-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/spFxUtitlitesWp/SpFxUtitlitesWpWebPart.js",
+          "manifest": "./src/webparts/spFxUtitlitesWp/SpFxUtitlitesWpWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {
+    "@microsoft/sp-module-loader": "node_modules/@microsoft/sp-module-loader/dist/sp-module-loader.js"
+  },
+  "localizedResources": {
+    "SpFxUtitlitesWpWebPartStrings": "lib/webparts/spFxUtitlitesWp/loc/{locale}.js"
+  }
+}

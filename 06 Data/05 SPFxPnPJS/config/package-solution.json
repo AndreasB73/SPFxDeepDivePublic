@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "sp-fx-pn-pjs-client-side-solution",
+    "id": "4e6bd512-a861-4937-8f4c-e3cac1c198de",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/sp-fx-pn-pjs.sppkg"
+  }
+}

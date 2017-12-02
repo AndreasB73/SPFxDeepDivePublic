@@ -1,0 +1,12 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "multible-wp-client-side-solution",
+    "id": "c5d85e53-07c4-4a7f-b75f-77ec1f5f3b1f",
+    "version": "1.0.0.0",
+    "skipFeatureDeployment": true
+  },
+  "paths": {
+    "zippedPackage": "solution/multible-wp.sppkg"
+  }
+}

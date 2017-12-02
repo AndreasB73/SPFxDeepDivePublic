@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "use-csom-client-side-solution",
+    "id": "6b0c8bf4-6a43-4b40-902c-84672fe4e9b3",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/use-csom.sppkg"
+  }
+}

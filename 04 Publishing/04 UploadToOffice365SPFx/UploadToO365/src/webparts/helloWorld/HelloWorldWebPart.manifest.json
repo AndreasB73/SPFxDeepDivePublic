@@ -1,0 +1,20 @@
+{
+  "$schema": "../../../node_modules/@microsoft/sp-module-interfaces/lib/manifestSchemas/jsonSchemas/clientSideComponentManifestSchema.json",
+
+  "id": "5fd0ee88-e9e8-4aed-a16c-79fd2e412bfe",
+  "alias": "HelloWorldWebPart",
+  "componentType": "WebPart",
+  "version": "0.0.1",
+  "manifestVersion": 2,
+
+  "preconfiguredEntries": [{
+    "groupId": "5fd0ee88-e9e8-4aed-a16c-79fd2e412bfe",
+    "group": { "default": "Under Development" },
+    "title": { "default": "UploadToO365WP" },
+    "description": { "default": "UploadToO365WP" },
+    "officeFabricIconFontName": "Page",
+    "properties": {
+      "description": "UploadToO365WP"
+    }
+  }]
+}

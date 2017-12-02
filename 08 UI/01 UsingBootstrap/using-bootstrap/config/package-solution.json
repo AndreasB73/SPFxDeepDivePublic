@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "using-bootstrap-client-side-solution",
+    "id": "3a97b606-68b0-4567-a064-1c896c0777f7",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/using-bootstrap.sppkg"
+  }
+}

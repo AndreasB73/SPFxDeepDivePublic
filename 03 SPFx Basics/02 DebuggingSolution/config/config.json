@@ -1,0 +1,18 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "debugging-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/debugging/DebuggingWebPart.js",
+          "manifest": "./src/webparts/debugging/DebuggingWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "DebuggingWebPartStrings": "lib/webparts/debugging/loc/{locale}.js"
+  }
+}

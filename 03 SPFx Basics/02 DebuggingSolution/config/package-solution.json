@@ -1,0 +1,11 @@
+{
+  "$schema": "https://dev.office.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "debugging-solution-client-side-solution",
+    "id": "624ce473-c18e-47b5-8ba1-cec8282c104e",
+    "version": "1.0.0.0"
+  },
+  "paths": {
+    "zippedPackage": "solution/debugging-solution.sppkg"
+  }
+}
